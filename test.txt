@@ -1,1 +1,2 @@
-Im trying to write code with git bas
+Im trying to write code with git bash
+This is my first attempt
